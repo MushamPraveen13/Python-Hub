@@ -1,0 +1,10 @@
+# Count Function
+tcount = checking_word.count("t")
+
+# Conditional Statements (if, elif, else)
+if int_total < 10 or int_total > 90:
+    print(f"Your score is {int_total}, you go together like coke and mentos.")
+elif int_total > 40 and int_total < 50:
+    print(f"Your score is {int_total}, you are alright together.")
+else:
+    print(f"Your score is {int_total}.")
